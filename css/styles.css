@@ -737,9 +737,9 @@ display: flex;
     align-items: center;
     justify-content: center;
 }
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 1158px) {
 .footer-icons-list {
-
+    margin: 0;
 }
 }
 .footer-items{
@@ -752,6 +752,7 @@ display: flex;
     background-color: #4d5ae5;
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
+
 .footer-icons-background{
 display: flex;
     align-items: center;
