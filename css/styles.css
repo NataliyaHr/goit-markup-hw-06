@@ -954,7 +954,7 @@ font-weight: 500;
     margin-bottom: 16px;
     justify-content: center;
 }
-.form-modal{
+/* .form-modal{
     display: flex;
         align-items: flex-start;
         justify-content: flex-start;
@@ -963,17 +963,8 @@ font-weight: 500;
         border-radius: 4px;
             width: 256px;
             height: 336px;
-}
-@media screen and (min-width:1158px) {
-    .form-modal {
-            width: 360px;
-        }
-}
-@media screen and (min-width:1158px) {
-    .form-modal {
-        width: 360px;
-    }
-}
+} */
+
 .modal-fill{
 margin-bottom: 8px;
 }
